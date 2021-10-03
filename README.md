@@ -1,2 +1,2 @@
-# ProxyPrep-WebDev
-This is the complete Web development course covering 2 major projects
+# WebDev
+This is a mern stack based web development course
